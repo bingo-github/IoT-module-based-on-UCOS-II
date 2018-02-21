@@ -1,0 +1,13 @@
+..\output\iwdg.o: ..\BSP\Iwdg.c
+..\output\iwdg.o: ..\CMSIS\stm32f10x.h
+..\output\iwdg.o: ..\CMSIS\core_cm3.h
+..\output\iwdg.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\output\iwdg.o: ..\CMSIS\system_stm32f10x.h
+..\output\iwdg.o: ..\USER\stm32f10x_conf.h
+..\output\iwdg.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\output\iwdg.o: ..\CMSIS\stm32f10x.h
+..\output\iwdg.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\output\iwdg.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+..\output\iwdg.o: ..\BSP\Iwdg.h
+..\output\iwdg.o: ..\BSP\led.h
+..\output\iwdg.o: ..\FWlib\inc\stm32f10x_iwdg.h

@@ -1,0 +1,13 @@
+..\output\rs485.o: ..\BSP\RS485.c
+..\output\rs485.o: ..\CMSIS\stm32f10x.h
+..\output\rs485.o: ..\CMSIS\core_cm3.h
+..\output\rs485.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\output\rs485.o: ..\CMSIS\system_stm32f10x.h
+..\output\rs485.o: ..\USER\stm32f10x_conf.h
+..\output\rs485.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\output\rs485.o: ..\CMSIS\stm32f10x.h
+..\output\rs485.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\output\rs485.o: ..\BSP\RS485.h
+..\output\rs485.o: ..\BSP\USART3.h
+..\output\rs485.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+..\output\rs485.o: ..\BSP\crc16.h

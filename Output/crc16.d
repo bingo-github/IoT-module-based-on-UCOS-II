@@ -1,0 +1,13 @@
+..\output\crc16.o: ..\BSP\crc16.c
+..\output\crc16.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+..\output\crc16.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+..\output\crc16.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+..\output\crc16.o: ..\CMSIS\stm32f10x.h
+..\output\crc16.o: ..\CMSIS\core_cm3.h
+..\output\crc16.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\output\crc16.o: ..\CMSIS\system_stm32f10x.h
+..\output\crc16.o: ..\USER\stm32f10x_conf.h
+..\output\crc16.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\output\crc16.o: ..\CMSIS\stm32f10x.h
+..\output\crc16.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\output\crc16.o: ..\BSP\crc16.h

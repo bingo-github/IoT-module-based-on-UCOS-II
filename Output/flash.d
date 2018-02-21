@@ -1,0 +1,11 @@
+..\output\flash.o: ..\BSP\flash.c
+..\output\flash.o: ..\CMSIS\stm32f10x.h
+..\output\flash.o: ..\CMSIS\core_cm3.h
+..\output\flash.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\output\flash.o: ..\CMSIS\system_stm32f10x.h
+..\output\flash.o: ..\USER\stm32f10x_conf.h
+..\output\flash.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\output\flash.o: ..\CMSIS\stm32f10x.h
+..\output\flash.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\output\flash.o: ..\BSP\flash.h
+..\output\flash.o: ..\FWlib\inc\stm32f10x_flash.h
